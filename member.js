@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   return {
     name: "Member",
     icon: "icons/svg/lorc/king.svg",
